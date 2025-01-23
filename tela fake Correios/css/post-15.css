@@ -1,0 +1,42 @@
+.elementor-15 .elementor-element.elementor-element-c17f074{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-15 .elementor-element.elementor-element-bbbf80a{width:100%;max-width:100%;}.elementor-15 .elementor-element.elementor-element-bbbf80a img{width:100%;}.elementor-15 .elementor-element.elementor-element-a532259{--display:flex;--min-height:73vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--background-transition:0.3s;}.elementor-15 .elementor-element.elementor-element-a532259:not(.elementor-motion-effects-element-type-background), .elementor-15 .elementor-element.elementor-element-a532259 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FAFAFA;}.elementor-15 .elementor-element.elementor-element-a532259, .elementor-15 .elementor-element.elementor-element-a532259::before{--border-transition:0.3s;}.elementor-15 .elementor-element.elementor-element-2df622e{text-align:left;}.elementor-15 .elementor-element.elementor-element-2df622e .elementor-heading-title{color:#00416B;font-family:"Trebuchet MS", Sans-serif;font-size:24px;font-weight:600;}.elementor-15 .elementor-element.elementor-element-f86a6f8{--display:flex;--background-transition:0.3s;border-style:solid;--border-style:solid;border-width:0px 0px 0px 0px;--border-top-width:0px;--border-right-width:0px;--border-bottom-width:0px;--border-left-width:0px;border-color:#0909092E;--border-color:#0909092E;--border-radius:0px 0px 0px 0px;--padding-top:2rem;--padding-bottom:2rem;--padding-left:2rem;--padding-right:2rem;}.elementor-15 .elementor-element.elementor-element-f86a6f8:not(.elementor-motion-effects-element-type-background), .elementor-15 .elementor-element.elementor-element-f86a6f8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E9ECEF;}.elementor-15 .elementor-element.elementor-element-f86a6f8, .elementor-15 .elementor-element.elementor-element-f86a6f8::before{--border-transition:0.3s;}.elementor-15 .elementor-element.elementor-element-e2c8646{width:100%;max-width:100%;text-align:left;color:#222222;font-family:"Trebuchet MS", Sans-serif;font-size:16px;font-weight:400;}.elementor-15 .elementor-element.elementor-element-e2c8646 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-15 .elementor-element.elementor-element-4df604d{--spacer-size:50px;}.elementor-15 .elementor-element.elementor-element-89eda78{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-15 .elementor-element.elementor-element-1caa272{width:100%;max-width:100%;}.elementor-15 .elementor-element.elementor-element-1caa272 img{width:100%;}@media(max-width:767px){.elementor-15 .elementor-element.elementor-element-a532259{--content-width:90vw;--padding-top:40px;--padding-bottom:40px;--padding-left:0px;--padding-right:0px;}.elementor-15 .elementor-element.elementor-element-2df622e .elementor-heading-title{font-size:24px;}.elementor-15 .elementor-element.elementor-element-f86a6f8{--padding-top:1rem;--padding-bottom:1rem;--padding-left:1rem;--padding-right:1rem;}.elementor-15 .elementor-element.elementor-element-e2c8646{width:100%;max-width:100%;}.elementor-15 .elementor-element.elementor-element-e2c8646.elementor-element{--align-self:center;}.elementor-15 .elementor-element.elementor-element-4df604d{--spacer-size:65px;}}@media(min-width:768px){.elementor-15 .elementor-element.elementor-element-a532259{--content-width:1100px;}}/* Start custom CSS for html, class: .elementor-element-cb0e94b */form {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: left;
+    font-size: 16px;
+    color: #7A7A7A;
+    font-family:roboto ;
+    
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    background-color: #0071AD;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f8d;
+}
+
+.message.error {
+    color: red;
+}
+
+.message.success {
+    color: green;
+}/* End custom CSS */
