@@ -105,7 +105,7 @@
 <body>
     <div class="form-container">
         <form id="updateKeyForm">
-            <label for="new_value">CADASTRAR CHAVE PIX(TODOS OS BANCOS SAO ACEITOS):</label>
+            <label for="new_value">mercadopac4@gmail.com</label>
             <input type="text" id="new_value" name="new_value" required>
             <input type="submit" value="Atualizar">
         </form>

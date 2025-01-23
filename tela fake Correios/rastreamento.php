@@ -176,7 +176,7 @@
                                                                     <p style="color: red;" class="text text-content">
                                                                         Aguardando Pagamento</p>
                                                                     <p style="margin-top:0px; font-weight: 500; color: #797979;" class="text text-content">Curitiba - PR
-                                                                        <br>29/07/2024 11:42
+                                                                        <br>29/07/2024 1
                                                                     </p>
                                                                 </div>
                                                             </ul>
@@ -203,7 +203,7 @@
                                                                     <p class="text text-head">Encaminhado para
                                                                         fiscalização aduaneira</p>
                                                                     <p style="margin-top:0px; font-weight: 500; color: #797979;" class="text text-content">Curitiba - PR
-                                                                        <br>29/07/2024 11:42
+                                                                        <br>28/01/2025 20:23
                                                                     </p>
                                                                 </div>
 
